@@ -8,7 +8,7 @@
 // Press the up/down arrow keys to speed up/slow down animation.
 // Press the x, X, y, Y, z, Z keys to rotate the scene.
 //
-// Sumanta Guha.
+// Geeth Govind Srinivasulu.
 ////////////////////////////////////////////////////////////////   
 
 #include <iostream>
