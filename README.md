@@ -1,6 +1,8 @@
 # My-OpenGL-Experiments
-Some of my experiments with OpenGL
+Some of my experiments with OpenGL.
+
+These programs were done by me from the learnings of my course on "Computer Graphics through OpelGL"
 
 
-These files were executed in Ubuntu and it worked perfectly fine.
-Let me know if you get any errors.
+It was run and compiled on Ubuntu 18.04 64-bit and it worked perfectly fine.
+If you get any issues, let me know @geethadhavan@gmail.com
